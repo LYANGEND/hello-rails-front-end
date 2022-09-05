@@ -3,7 +3,7 @@
 This project is a simple example of a React and Rails application. It displays a random message from a list of messages.
 
 ## link to the rails API
-## [Rails API](https://github.com/ciraganenicole/hello-rails-backend)
+## [Rails API](https://github.com/LYANGEND/hello-rails-backend)
 
 ## GETTING STARTED
 
@@ -16,11 +16,11 @@ Run the following commands
 
 ## About me
 
-👤 **Ciragane Nicole**
+👤 **David Lyangenda**
 
-- GitHub: [@ciraganenicole](https://github.com/ciraganenicole)
-- Twitter: [@CiraganeN](https://twitter.com/CiraganeN)
-- LinkedIn: [CiraganeNicole](https://linkedin.com/in/nicole-ciragane-19a3071bb)
+- GitHub: [@LYANGEND](https://github.com/LYANGEND)
+- Twitter: [@Lyangendadavid](https://twitter.com/david_lyangenda)
+- LinkedIn: [David_Lyangenda](https://www.linkedin.com/in/davidlyangenda/)
 
 ## 🤝 Contributing
 
@@ -29,8 +29,8 @@ Contributions, issues, and feature requests are welcome!
 Feel free to check the issues page.
 
 ## Show your support
-
-Give a ⭐️ if you like this project!
+t
+Give a ⭐️ if you like this project
 
 ## License
 
